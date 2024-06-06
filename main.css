@@ -1,0 +1,23 @@
+body {background-color:bisque;}
+h1 {color: black;}
+text {color: black;}
+nav {height: 6000px;}
+nav {
+width: 200px;
+float: left;
+padding: 5px;
+line-height: 30px;
+}
+footer {
+text-align: center;
+margin-right: 200px;
+}
+img {margin-right: 200px;}
+header {text-align: center;}
+table {text-align: center;}
+li{color: brown;}
+a{color: black;}
+a{text-decoration: none;}
+a{line-height: 2.0;}
+
+
